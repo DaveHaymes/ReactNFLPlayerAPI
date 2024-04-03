@@ -57,11 +57,7 @@ Access the application at [http://localhost:3000](http://localhost:3000).
 
 ## API Reference
 
-This project uses the ESPN API to fetch data about teams and players. Documentation for the ESPN API can be found at [ESPN API Documentation](#).
-
-## Contributing
-
-We welcome contributions from the community. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) document for more details on how to submit pull requests, report issues, and suggest enhancements.
+This project uses the ESPN API to fetch data about teams and players.
 
 ## Versioning
 
@@ -73,7 +69,7 @@ For transparency and insight into our release cycle, and for striving to maintai
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
