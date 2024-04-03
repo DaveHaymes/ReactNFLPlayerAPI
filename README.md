@@ -79,4 +79,4 @@ This project is licensed under the MIT License.
 
 - Thanks to ESPN for making NFL data accessible via their API.
 - This project was inspired by the vibrant community of NFL fans seeking detailed, interactive team and player information.
-- Special thanks to nntrn for finding all the API endpoints for the community
+- Special thanks to nntrn for finding all the API endpoints for the community.
