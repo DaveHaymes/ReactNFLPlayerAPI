@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yourimagehost.com/path/to/logo.png" alt="NFL Teams and Players Explorer Logo" width="400"/>
+  <img src="https://netherium.s3.us-west-1.amazonaws.com/cdn/logo.png" alt="NFL Teams+Players API Logo" width="400"/>
 </p>
 
 # NFL Teams and Players Explorer
