@@ -5,6 +5,10 @@
 # NFL Teams and Players Explorer
 
 Explore NFL teams and their players in a detailed and interactive way. This React application, utilizing the ESPN API, provides a comprehensive platform for football enthusiasts to browse NFL teams, view detailed team profiles, and explore extensive player rosters.
+<p align="center">
+  <img src="https://netherium.s3.us-west-1.amazonaws.com/cdn/teamsExample.png" alt="List of NFL Teams" width="400"/>
+  <img src="https://netherium.s3.us-west-1.amazonaws.com/cdn/playersExample.png" alt="List of NFL Teams" width="400"/>
+</p>
 
 ## Features
 
