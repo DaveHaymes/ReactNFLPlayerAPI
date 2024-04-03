@@ -38,7 +38,7 @@ git clone https://github.com/DaveHaymes/ReactNFLPlayerAPI.git
 
 2. Navigate to the project directory:
 ```bash
-cd nfl-teams-and-players-explorer
+cd ReactNFLPlayerAPI
 ```
 
 3. Install dependencies:
